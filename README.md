@@ -1,10 +1,19 @@
-## GitLab Dummy Data Seeder
+<h1 align="center">GitLab Dummy Data Seeder</h1>
+
+<p align="center">
+  <a href="#prerequisites">Prerequisites</a> |
+  <a href="#installation">Installation</a> |
+  <a href="#environment">Environment</a> |
+  <a href="#repository-structure">Repository Structure</a> |
+  <a href="#license">License</a>
+</p>
+
 A customizable dummy data seeder for a GitLab instance for testing and development purposes.
 
-[Installation](#installation) | [Environment](#environment) | [License](#license)
-
+### Prerequisites
 ### Installation
 ### Environment
+### Repository Structure
 ### License
 
 <hr>
