@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> |
   <a href="#installation">Installation</a> |
-  <a href="#environment">Environment</a> |
+  <a href="#running">Running</a> |
+  <a href="#customization-settingstoml">Customization</a> |
   <a href="#repository-structure">Repository Structure</a> |
   <a href="#license">License</a>
 </p>
@@ -12,7 +13,8 @@ A customizable dummy data seeder for a GitLab instance for testing and developme
 
 ### Prerequisites
 ### Installation
-### Environment
+### Running
+### Customization `settings.toml`
 ### Repository Structure
 ### License
 
