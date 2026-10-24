@@ -5,17 +5,17 @@ __pycache__/
 build/
 dist/
 
-# Virtual environments
+# Venv
 .venv/
 venv/
 
-# Tooling caches and reports
+# Tooling
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .coverage
 htmlcov/
 
-# Local copies of settings.example.toml and .env.example
+# Local secrets
 settings.toml
 .env
