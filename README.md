@@ -79,6 +79,8 @@ pytest
 
 ### License
 
+MIT
+
 <hr>
 <p align="center">
   <sub>
