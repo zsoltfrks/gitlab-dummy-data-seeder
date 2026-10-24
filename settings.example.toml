@@ -1,0 +1,10 @@
+seed = 42 # How many `seeds` should the run do.
+
+# Names of everything the seeder creates, so it is easy to find and clean up.
+# 1-32 lowercase letters, digits or hyphens, starting and ending with a letter or digit.
+prefix = "seed"
+
+[gitlab]
+timeout_seconds = 60 # Seconds to wait for each API response.
+verify_ssl = true # Set to false only for test instances with self-signed certificates.
+
